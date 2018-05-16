@@ -187,3 +187,7 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+/.vs/InDepthCSharp/v15/Server/sqlite3/db.lock
+/.vs/InDepthCSharp/v15/Server/sqlite3/storage.ide
+/.vs/InDepthCSharp/v15/Server/sqlite3/storage.ide-shm
+/.vs/InDepthCSharp/v15/Server/sqlite3/storage.ide-wal

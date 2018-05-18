@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2036
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Chapter", "InDepthCSharp\01_Chapter.csproj", "{ADC025A0-FECF-43D1-B6CD-EA1B3ADFF78A}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_StringManipulation", "StringManipulation\04_StringManipulation.csproj", "{46A3757F-0645-4777-8278-6890EE855EE3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_WindowsFormsApp1", "WindowsFormsApp1\05_WindowsFormsApp1.csproj", "{B2324D58-F2F8-4782-B9AF-BF6BD7C1E077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_MoreDelegates", "06_MoreDelegates\06_MoreDelegates.csproj", "{EC242F20-1ADA-4F6E-BDC1-0CC409F778DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B2324D58-F2F8-4782-B9AF-BF6BD7C1E077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2324D58-F2F8-4782-B9AF-BF6BD7C1E077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2324D58-F2F8-4782-B9AF-BF6BD7C1E077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC242F20-1ADA-4F6E-BDC1-0CC409F778DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC242F20-1ADA-4F6E-BDC1-0CC409F778DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC242F20-1ADA-4F6E-BDC1-0CC409F778DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC242F20-1ADA-4F6E-BDC1-0CC409F778DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
